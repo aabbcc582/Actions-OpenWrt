@@ -102,11 +102,6 @@
    ```java
    public class Hello {
        public static void mian(String[] args) {
-           System.out.println("哈喽你好");
+           System.out.println("Hello world");
        }
    }
-   printf()
-   ```
-
-
-
