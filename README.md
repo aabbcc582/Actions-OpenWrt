@@ -1,11 +1,112 @@
-# Actions-OpenWrt
+<div align = "center"><font size="28"><b>JAVA300集</b></font></div>
 
-[![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
-![GitHub Stars](https://img.shields.io/github/stars/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Stars&logo=github)
-![GitHub Forks](https://img.shields.io/github/forks/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Forks&logo=github)
+# **基础学习：**
 
-Build OpenWrt using GitHub Actions
+1. 代码能力
+2. 面向对象分析能力
+3. 内存底层和源码分析习惯
+4. 调试和查错能力
 
-[Read the details in my blog (in Chinese) | 中文教程](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
+# 基础能力培养：
+
+### 1. JAVA入门:
+
+1. JAVA的历史
+2. 开发环境搭建
+3. IDE使用
+4. 第一个JAVA程序
+
+### 2. 编程能力培养:
+
+1. 数据类型和变量
+2. 控制语句
+3. 方法
+
+### 3. 面向对象:
+
+1. 类和对象
+2. 内存分析和垃圾回收机制(***重要***)
+3. this指针，static静态
+4. package, import
+
+### 4. 面向对象进阶:
+
+1. 三大特征(继承、封装、多态)
+2. Object类
+3. super和继承追朔
+4. 抽象类
+5. 接口
+6. 设计模式入门(单例、工厂、组合)
+
+### 5.  异常:
+
+1. 异常基本概念
+2. 异常处理机制
+3. 自定义异常
+4. 常见异常如何处理
+
+### 6. 数组:
+
+1. 数组的本质
+2. 数组的初始化和遍历
+3. 多维数组
+4. 算法(冒泡排序、排序优化、二分查找)
+
+### 7. 常见类:
+
+1. 包装类
+2. 字符串相关类
+3. 时间相关类
+
+### 8. 容器:
+
+1. 泛型
+2. 容器本质
+3. list
+4. Set
+5. Map
+6. Iterator
+7. 迭代器
+
+### 9. IO流:
+
+1. 流的基本操作
+2. 流的分类
+3. 相关工具(Apache IO)
+
+### 10. 多线程技术:
+
+1.  多线程相关基本概念
+2.  创建线程类
+3.  线程的状态
+4.  线程通讯和协作
+
+### 11. 网络编程:
+
+1. TCP和IP基本概念
+2. Socket通讯经典代码
+3. Socket通讯组合多线程
+4. UDP通讯入门
+
+### 12. 飞机大战坦克大战:
+
+1. 通过游戏项目深入基础
+2. 深入理解面向对象
+
+# 实战:
+
+###  第一个JAVA
+
+1. Hello word
+
+   ```java
+   public class Hello {
+       public static void mian(String[] args) {
+           System.out.println("哈喽你好");
+       }
+   }
+   printf()
+   ```
+
 
 
